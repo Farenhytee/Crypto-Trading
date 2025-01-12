@@ -1,0 +1,364 @@
+Backtesting Log 2023-01-13 to 2025-01-12 
+
+
+Date: 2023-01-20 ---------- 
+
+Date: 2023-01-27 ---------- 
+
+Date: 2023-02-03 ---------- 
+
+Date: 2023-02-10 ---------- 
+Sold 0.005017558947536906 quantity of BTCUSDT
+Sold 5.467468562055768 quantity of SOLUSDT
+Sold 6.265664160401002 quantity of AVAXUSDT
+Sold 4.6253469010175765 quantity of ETCUSDT
+Sold 0.06890848952590958 quantity of ETHUSDT
+Sold 59.38242280285036 quantity of RUNEUSDT
+Sold 1183.4319526627219 quantity of DOGEUSDT
+Sold 98.81422924901186 quantity of EOSUSDT
+Sold 1.1596892032935173 quantity of LTCUSDT
+
+Date: 2023-02-17 ---------- 
+Bought 78.70423479370737 quantity of EOSUSDT
+
+Date: 2023-02-24 ---------- 
+Sold 709.2198581560284 quantity of CHRUSDT
+Sold 78.70423479370737 quantity of EOSUSDT
+
+Date: 2023-03-03 ---------- 
+Bought 87.07727423001147 quantity of EOSUSDT
+
+Date: 2023-03-10 ---------- 
+Sold 87.07727423001147 quantity of EOSUSDT
+
+Date: 2023-03-17 ---------- 
+Bought 0.0045367696195818515 quantity of BTCUSDT
+
+Date: 2023-03-24 ---------- 
+Bought 1.3281191868828315 quantity of LTCUSDT
+
+Date: 2023-03-31 ---------- 
+
+Date: 2023-04-07 ---------- 
+Sold 0.0045367696195818515 quantity of BTCUSDT
+Sold 1.3281191868828315 quantity of LTCUSDT
+
+Date: 2023-04-14 ---------- 
+Bought 6.029081843604063 quantity of SOLUSDT
+
+Date: 2023-04-21 ---------- 
+Sold 6.029081843604063 quantity of SOLUSDT
+
+Date: 2023-04-28 ---------- 
+
+Date: 2023-05-05 ---------- 
+
+Date: 2023-05-12 ---------- 
+
+Date: 2023-05-19 ---------- 
+
+Date: 2023-05-26 ---------- 
+
+Date: 2023-06-02 ---------- 
+
+Date: 2023-06-09 ---------- 
+
+Date: 2023-06-16 ---------- 
+
+Date: 2023-06-23 ---------- 
+Bought 8.564870898523823 quantity of ETCUSDT
+Bought 218.93154434792288 quantity of EOSUSDT
+Bought 1.772851317917105 quantity of LTCUSDT
+
+Date: 2023-06-30 ---------- 
+Bought 8.578494765276512 quantity of SOLUSDT
+Bought 7.733767269269359 quantity of ETCUSDT
+Bought 1.3395710225004922 quantity of LTCUSDT
+
+Date: 2023-07-07 ---------- 
+Bought 6.095359680522008 quantity of SOLUSDT
+Sold 16.298638167793182 quantity of ETCUSDT
+Sold 218.93154434792288 quantity of EOSUSDT
+Sold 3.1124223404175972 quantity of LTCUSDT
+
+Date: 2023-07-14 ---------- 
+Bought 7.3442184504232975 quantity of SOLUSDT
+
+Date: 2023-07-21 ---------- 
+
+Date: 2023-07-28 ---------- 
+
+Date: 2023-08-04 ---------- 
+Sold 22.018072896221817 quantity of SOLUSDT
+
+Date: 2023-08-11 ---------- 
+Bought 198.14915281618212 quantity of RUNEUSDT
+
+Date: 2023-08-18 ---------- 
+Bought 140.84855825180108 quantity of RUNEUSDT
+
+Date: 2023-08-25 ---------- 
+Sold 338.99771106798323 quantity of RUNEUSDT
+
+Date: 2023-09-01 ---------- 
+
+Date: 2023-09-08 ---------- 
+
+Date: 2023-09-15 ---------- 
+Bought 139.48589123188543 quantity of RUNEUSDT
+
+Date: 2023-09-22 ---------- 
+Sold 139.48589123188543 quantity of RUNEUSDT
+
+Date: 2023-09-29 ---------- 
+Bought 139.40905874297454 quantity of RUNEUSDT
+
+Date: 2023-10-06 ---------- 
+Bought 26.116312411793636 quantity of AVAXUSDT
+Sold 139.40905874297454 quantity of RUNEUSDT
+
+Date: 2023-10-13 ---------- 
+Sold 26.116312411793636 quantity of AVAXUSDT
+
+Date: 2023-10-20 ---------- 
+Bought 12.093012697850453 quantity of SOLUSDT
+
+Date: 2023-10-27 ---------- 
+Bought 135.40767739142407 quantity of RUNEUSDT
+Bought 2844.857556335054 quantity of CHRUSDT
+
+Date: 2023-11-03 ---------- 
+Bought 97.11055651304152 quantity of RUNEUSDT
+
+Date: 2023-11-10 ---------- 
+Bought 5.19122498501161 quantity of SOLUSDT
+Bought 17.962554132330197 quantity of AVAXUSDT
+Bought 12.76605824062426 quantity of ETCUSDT
+Bought 65.9775848269492 quantity of RUNEUSDT
+
+Date: 2023-11-17 ---------- 
+Bought 10.861041163149153 quantity of AVAXUSDT
+Sold 12.76605824062426 quantity of ETCUSDT
+Bought 37.12598784384185 quantity of RUNEUSDT
+Sold 2844.857556335054 quantity of CHRUSDT
+Bought 2864.4219630061552 quantity of DOGEUSDT
+
+Date: 2023-11-24 ---------- 
+
+Date: 2023-12-01 ---------- 
+
+Date: 2023-12-08 ---------- 
+Bought 3.30283829494745 quantity of SOLUSDT
+Bought 7.318108792412144 quantity of AVAXUSDT
+Bought 1972.5197606938523 quantity of DOGEUSDT
+
+Date: 2023-12-15 ---------- 
+Bought 4.54389870635182 quantity of AVAXUSDT
+Sold 335.6218065752567 quantity of RUNEUSDT
+Sold 4836.941723700007 quantity of DOGEUSDT
+
+Date: 2023-12-22 ---------- 
+Bought 4.069748692793922 quantity of SOLUSDT
+
+Date: 2023-12-29 ---------- 
+Sold 40.685602794243316 quantity of AVAXUSDT
+
+Date: 2024-01-05 ---------- 
+Sold 24.656824670603434 quantity of SOLUSDT
+
+Date: 2024-01-12 ---------- 
+Bought 26.49019700473467 quantity of ETCUSDT
+
+Date: 2024-01-19 ---------- 
+Sold 26.49019700473467 quantity of ETCUSDT
+
+Date: 2024-01-26 ---------- 
+Bought 3034.060581410116 quantity of CHRUSDT
+
+Date: 2024-02-02 ---------- 
+
+Date: 2024-02-09 ---------- 
+Bought 159.0369783251515 quantity of RUNEUSDT
+Bought 2534.3654356091774 quantity of CHRUSDT
+
+Date: 2024-02-16 ---------- 
+Bought 1644.123864688044 quantity of CHRUSDT
+
+Date: 2024-02-23 ---------- 
+Sold 159.0369783251515 quantity of RUNEUSDT
+Sold 7212.549881707338 quantity of CHRUSDT
+
+Date: 2024-03-01 ---------- 
+Bought 0.016842063314136332 quantity of BTCUSDT
+Bought 8.118218047098864 quantity of SOLUSDT
+Bought 7540.842269527819 quantity of DOGEUSDT
+Bought 1150.1105098905496 quantity of EOSUSDT
+Bought 12.380593399740851 quantity of LTCUSDT
+
+Date: 2024-03-08 ---------- 
+Bought 7.256999529221674 quantity of SOLUSDT
+Bought 24.84673845644786 quantity of ETCUSDT
+Bought 130.38285752825115 quantity of RUNEUSDT
+Bought 5746.289516026041 quantity of DOGEUSDT
+Bought 711.8603036861534 quantity of EOSUSDT
+
+Date: 2024-03-15 ---------- 
+Sold 0.016842063314136332 quantity of BTCUSDT
+Bought 4.800447124657496 quantity of SOLUSDT
+Bought 13.617855101485121 quantity of AVAXUSDT
+Sold 24.84673845644786 quantity of ETCUSDT
+Sold 13287.13178555386 quantity of DOGEUSDT
+Sold 1861.970813576703 quantity of EOSUSDT
+Sold 12.380593399740851 quantity of LTCUSDT
+
+Date: 2024-03-22 ---------- 
+Sold 20.175664700978032 quantity of SOLUSDT
+Sold 13.617855101485121 quantity of AVAXUSDT
+Sold 130.38285752825115 quantity of RUNEUSDT
+
+Date: 2024-03-29 ---------- 
+Bought 9089.49495629575 quantity of DOGEUSDT
+Bought 17.752268711635747 quantity of LTCUSDT
+
+Date: 2024-04-05 ---------- 
+Sold 9089.49495629575 quantity of DOGEUSDT
+Sold 17.752268711635747 quantity of LTCUSDT
+
+Date: 2024-04-12 ---------- 
+
+Date: 2024-04-19 ---------- 
+
+Date: 2024-04-26 ---------- 
+
+Date: 2024-05-03 ---------- 
+
+Date: 2024-05-10 ---------- 
+
+Date: 2024-05-17 ---------- 
+Bought 13.401681827512842 quantity of SOLUSDT
+Bought 332.95908634219586 quantity of RUNEUSDT
+Bought 6460.25880185996 quantity of CHRUSDT
+
+Date: 2024-05-24 ---------- 
+Sold 13.401681827512842 quantity of SOLUSDT
+Sold 332.95908634219586 quantity of RUNEUSDT
+
+Date: 2024-05-31 ---------- 
+Sold 6460.25880185996 quantity of CHRUSDT
+
+Date: 2024-06-07 ---------- 
+
+Date: 2024-06-14 ---------- 
+
+Date: 2024-06-21 ---------- 
+
+Date: 2024-06-28 ---------- 
+
+Date: 2024-07-05 ---------- 
+
+Date: 2024-07-12 ---------- 
+
+Date: 2024-07-19 ---------- 
+Bought 17.295399676893336 quantity of SOLUSDT
+Bought 630.6966251300064 quantity of RUNEUSDT
+
+Date: 2024-07-26 ---------- 
+
+Date: 2024-08-02 ---------- 
+Sold 17.295399676893336 quantity of SOLUSDT
+Sold 630.6966251300064 quantity of RUNEUSDT
+
+Date: 2024-08-09 ---------- 
+
+Date: 2024-08-16 ---------- 
+
+Date: 2024-08-23 ---------- 
+Bought 129.23772576312297 quantity of AVAXUSDT
+Bought 770.0196481028177 quantity of RUNEUSDT
+Bought 14930.254493960432 quantity of CHRUSDT
+
+Date: 2024-08-30 ---------- 
+Sold 129.23772576312297 quantity of AVAXUSDT
+Sold 770.0196481028177 quantity of RUNEUSDT
+Sold 14930.254493960432 quantity of CHRUSDT
+
+Date: 2024-09-06 ---------- 
+
+Date: 2024-09-13 ---------- 
+
+Date: 2024-09-20 ---------- 
+Bought 156.77350591684126 quantity of AVAXUSDT
+
+Date: 2024-09-27 ---------- 
+Bought 809.3139755072757 quantity of RUNEUSDT
+Bought 35122.03796226215 quantity of DOGEUSDT
+
+Date: 2024-10-04 ---------- 
+Sold 156.77350591684126 quantity of AVAXUSDT
+Sold 809.3139755072757 quantity of RUNEUSDT
+Sold 35122.03796226215 quantity of DOGEUSDT
+
+Date: 2024-10-11 ---------- 
+
+Date: 2024-10-18 ---------- 
+Bought 40260.67041337442 quantity of DOGEUSDT
+
+Date: 2024-10-25 ---------- 
+Sold 40260.67041337442 quantity of DOGEUSDT
+
+Date: 2024-11-01 ---------- 
+
+Date: 2024-11-08 ---------- 
+Bought 30.282833311027552 quantity of SOLUSDT
+Bought 210.28576223797276 quantity of AVAXUSDT
+Bought 2.0433946947611568 quantity of ETHUSDT
+Bought 29964.96626830151 quantity of DOGEUSDT
+
+Date: 2024-11-15 ---------- 
+Bought 15863.759468437369 quantity of DOGEUSDT
+Bought 9301.266758005415 quantity of EOSUSDT
+
+Date: 2024-11-22 ---------- 
+Bought 126.17145734278365 quantity of AVAXUSDT
+Bought 171.88427882675927 quantity of ETCUSDT
+Bought 11876.2013521796 quantity of DOGEUSDT
+Bought 5930.007619523194 quantity of EOSUSDT
+
+Date: 2024-11-29 ---------- 
+Bought 642.4094971740383 quantity of RUNEUSDT
+Bought 4159.577940532926 quantity of EOSUSDT
+Bought 34.109571364221225 quantity of LTCUSDT
+
+Date: 2024-12-06 ---------- 
+Bought 93.38018792342454 quantity of ETCUSDT
+Bought 441.7379223522197 quantity of RUNEUSDT
+Bought 8599.71607659495 quantity of CHRUSDT
+Bought 2116.6016608524865 quantity of EOSUSDT
+Bought 19.165732275757186 quantity of LTCUSDT
+
+Date: 2024-12-13 ---------- 
+Sold 30.282833311027552 quantity of SOLUSDT
+Sold 57704.927088918485 quantity of DOGEUSDT
+Sold 21507.45397891402 quantity of EOSUSDT
+
+Date: 2024-12-20 ---------- 
+Sold 336.45721958075643 quantity of AVAXUSDT
+Sold 265.26446675018383 quantity of ETCUSDT
+Sold 2.0433946947611568 quantity of ETHUSDT
+Sold 1084.147419526258 quantity of RUNEUSDT
+Sold 8599.71607659495 quantity of CHRUSDT
+Sold 53.27530363997841 quantity of LTCUSDT
+
+Date: 2024-12-27 ---------- 
+
+Date: 2025-01-03 ---------- 
+Bought 54.50370415073335 quantity of SOLUSDT
+Bought 283.2919043352018 quantity of AVAXUSDT
+Bought 31275.53362241271 quantity of DOGEUSDT
+Bought 12832.122764681244 quantity of EOSUSDT
+
+Date: 2025-01-10 ---------- 
+Sold 54.50370415073335 quantity of SOLUSDT
+Sold 283.2919043352018 quantity of AVAXUSDT
+Sold 31275.53362241271 quantity of DOGEUSDT
+Sold 12832.122764681244 quantity of EOSUSDT
