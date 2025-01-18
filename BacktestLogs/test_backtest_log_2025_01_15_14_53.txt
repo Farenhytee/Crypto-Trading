@@ -1,0 +1,2518 @@
+Backtesting Log 2022-01-16 to 2025-01-15 
+
+
+Date: 2022-01-23, Balance: 1.4210854715202004e-14, Value: 0
+
+Coin: BTCUSDT, Holdings: 0.002321712234912701
+Coin: SOLUSDT, Holdings: 0.6757669955399379
+Coin: AVAXUSDT, Holdings: 1.0841283607979186
+Coin: ETCUSDT, Holdings: 3.097893432465923
+Coin: ETHUSDT, Holdings: 0.029878573477387895
+Coin: RUNEUSDT, Holdings: 15.883100381194408
+Coin: CHRUSDT, Holdings: 114.23349326022391
+Coin: DOGEUSDT, Holdings: 566.251415628539
+Coin: EOSUSDT, Holdings: 34.447123665173955
+Coin: LTCUSDT, Holdings: 0.6830601092896175
+
+Trades executed:
+Sold 0.002321712234912701 quantity of BTCUSDT
+Sold 0.6757669955399379 quantity of SOLUSDT
+Sold 1.0841283607979186 quantity of AVAXUSDT
+Sold 3.097893432465923 quantity of ETCUSDT
+Sold 0.029878573477387895 quantity of ETHUSDT
+Sold 15.883100381194408 quantity of RUNEUSDT
+Sold 114.23349326022391 quantity of CHRUSDT
+Sold 566.251415628539 quantity of DOGEUSDT
+Sold 34.447123665173955 quantity of EOSUSDT
+Sold 0.6830601092896175 quantity of LTCUSDT
+
+Date: 2022-01-30, Balance: 738.697678673019, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-02-06, Balance: 738.697678673019, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 0.6407856338246175 quantity of SOLUSDT
+Bought 15.171445444095689 quantity of RUNEUSDT
+Bought 116.51382944369385 quantity of CHRUSDT
+Bought 0.5789166760760337 quantity of LTCUSDT
+
+Date: 2022-02-13, Balance: 738.697678673019, Value: 295.4790714692076
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0.6407856338246175
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 15.171445444095689
+Coin: CHRUSDT, Holdings: 116.51382944369385
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0.5789166760760337
+
+Trades executed:
+Sold 0.6407856338246175 quantity of SOLUSDT
+Sold 15.171445444095689 quantity of RUNEUSDT
+Sold 116.51382944369385 quantity of CHRUSDT
+Sold 0.5789166760760337 quantity of LTCUSDT
+
+Date: 2022-02-20, Balance: 989.0560811329292, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-02-27, Balance: 989.0560811329292, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-03-06, Balance: 989.0560811329292, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-03-13, Balance: 989.0560811329292, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 15.53409896549284 quantity of RUNEUSDT
+
+Date: 2022-03-20, Balance: 989.0560811329292, Value: 98.90560811329291
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 15.53409896549284
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 2.591187008469817 quantity of ETCUSDT
+Bought 11.499314976548414 quantity of RUNEUSDT
+
+Date: 2022-03-27, Balance: 890.1504730196363, Value: 331.42000142878976
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 2.591187008469817
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 27.033413942041253
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 0.8316054493830681 quantity of SOLUSDT
+Bought 1.854480152124242 quantity of ETCUSDT
+Bought 7.701744142642499 quantity of RUNEUSDT
+Bought 497.9432894654042 quantity of DOGEUSDT
+Bought 27.00456491183166 quantity of EOSUSDT
+
+Date: 2022-04-03, Balance: 721.0218831459053, Value: 807.92656203654
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0.8316054493830681
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 4.445667160594059
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 34.73515808468375
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 497.9432894654042
+Coin: EOSUSDT, Holdings: 27.00456491183166
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 0.5266777816989813 quantity of SOLUSDT
+Sold 4.445667160594059 quantity of ETCUSDT
+Bought 139.84927475961848 quantity of CHRUSDT
+
+Date: 2022-04-10, Balance: 856.5768079026633, Value: 810.7139629980186
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 1.3582832310820494
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 34.73515808468375
+Coin: CHRUSDT, Holdings: 139.84927475961848
+Coin: DOGEUSDT, Holdings: 497.9432894654042
+Coin: EOSUSDT, Holdings: 27.00456491183166
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 1.3582832310820494 quantity of SOLUSDT
+Sold 34.73515808468375 quantity of RUNEUSDT
+Sold 139.84927475961848 quantity of CHRUSDT
+Sold 27.00456491183166 quantity of EOSUSDT
+
+Date: 2022-04-17, Balance: 1446.5552403486445, Value: 73.7951954987729
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 497.9432894654042
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 497.9432894654042 quantity of DOGEUSDT
+
+Date: 2022-04-24, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-05-01, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-05-08, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-05-15, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-05-22, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-05-29, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-06-05, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-06-12, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-06-19, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-06-26, Balance: 1515.8689462422287, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 2077.67125307323 quantity of DOGEUSDT
+
+Date: 2022-07-03, Balance: 1515.8689462422287, Value: 151.58689462422288
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 2077.67125307323
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 2077.67125307323 quantity of DOGEUSDT
+
+Date: 2022-07-10, Balance: 1655.5092311612805, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-07-17, Balance: 1655.5092311612805, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 8.600047954084573 quantity of ETCUSDT
+Bought 0.1236700579808972 quantity of ETHUSDT
+
+Date: 2022-07-24, Balance: 1655.5092311612805, Value: 331.1018462322561
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 8.600047954084573
+Coin: ETHUSDT, Holdings: 0.1236700579808972
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 6.484564164360675 quantity of ETCUSDT
+Bought 123.85355844099357 quantity of EOSUSDT
+
+Date: 2022-07-31, Balance: 1489.9583080451525, Value: 731.6936298245018
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 15.084612118445248
+Coin: ETHUSDT, Holdings: 0.1236700579808972
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 123.85355844099357
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 4.09892244304031 quantity of ETCUSDT
+
+Date: 2022-08-07, Balance: 1340.9624772406373, Value: 1069.7037652938657
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 19.18353456148556
+Coin: ETHUSDT, Holdings: 0.1236700579808972
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 123.85355844099357
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 4.806317122726299 quantity of AVAXUSDT
+
+Date: 2022-08-14, Balance: 1340.9624772406373, Value: 1220.1777905858216
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 4.806317122726299
+Coin: ETCUSDT, Holdings: 19.18353456148556
+Coin: ETHUSDT, Holdings: 0.1236700579808972
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 123.85355844099357
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 1641.726833056608 quantity of DOGEUSDT
+
+Date: 2022-08-21, Balance: 1340.9624772406373, Value: 1467.5149371615487
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 4.806317122726299
+Coin: ETCUSDT, Holdings: 19.18353456148556
+Coin: ETHUSDT, Holdings: 0.1236700579808972
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 1641.726833056608
+Coin: EOSUSDT, Holdings: 123.85355844099357
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 4.806317122726299 quantity of AVAXUSDT
+Sold 19.18353456148556 quantity of ETCUSDT
+Sold 0.1236700579808972 quantity of ETHUSDT
+Sold 1641.726833056608 quantity of DOGEUSDT
+Bought 153.57910351738806 quantity of EOSUSDT
+
+Date: 2022-08-28, Balance: 2170.0727327006935, Value: 435.56927927465915
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 277.43266195838163
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 277.43266195838163 quantity of EOSUSDT
+
+Date: 2022-09-04, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-09-11, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-09-18, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-09-25, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-10-02, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-10-09, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-10-16, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-10-23, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-10-30, Balance: 2565.691708653346, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 2179.3015447662838 quantity of DOGEUSDT
+
+Date: 2022-11-06, Balance: 2565.691708653346, Value: 256.56917086533457
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 2179.3015447662838
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 3.7587045248364275 quantity of LTCUSDT
+
+Date: 2022-11-13, Balance: 2565.691708653346, Value: 506.68760915816097
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 2179.3015447662838
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 3.7587045248364275
+
+Trades executed:
+Sold 2179.3015447662838 quantity of DOGEUSDT
+Sold 3.7587045248364275 quantity of LTCUSDT
+
+Date: 2022-11-20, Balance: 2966.4602534711075, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-11-27, Balance: 2966.4602534711075, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 3006.141318880328 quantity of DOGEUSDT
+
+Date: 2022-12-04, Balance: 2966.4602534711075, Value: 296.64602534711076
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 3006.141318880328
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-12-11, Balance: 2966.4602534711075, Value: 312.81906564268695
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 3006.141318880328
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 3006.141318880328 quantity of DOGEUSDT
+
+Date: 2022-12-18, Balance: 3245.0093080785587, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2022-12-25, Balance: 3245.0093080785587, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-01-01, Balance: 3245.0093080785587, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-01-08, Balance: 3245.0093080785587, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 22.456811820612863 quantity of SOLUSDT
+Bought 15.914709701219023 quantity of ETCUSDT
+
+Date: 2023-01-15, Balance: 3245.0093080785587, Value: 649.0018616157117
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 22.456811820612863
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 15.914709701219023
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 0.015547561546024765 quantity of BTCUSDT
+Bought 14.176536950976665 quantity of SOLUSDT
+Bought 17.383978436135138 quantity of AVAXUSDT
+Bought 0.18811405825823196 quantity of ETHUSDT
+Bought 166.88619298689733 quantity of RUNEUSDT
+Bought 2063.9635175057974 quantity of CHRUSDT
+
+Date: 2023-01-22, Balance: 2920.508377270703, Value: 2687.7311324051275
+
+Coin: BTCUSDT, Holdings: 0.015547561546024765
+Coin: SOLUSDT, Holdings: 36.633348771589525
+Coin: AVAXUSDT, Holdings: 17.383978436135138
+Coin: ETCUSDT, Holdings: 15.914709701219023
+Coin: ETHUSDT, Holdings: 0.18811405825823196
+Coin: RUNEUSDT, Holdings: 166.88619298689733
+Coin: CHRUSDT, Holdings: 2063.9635175057974
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-01-29, Balance: 2920.508377270703, Value: 2806.6142049053947
+
+Coin: BTCUSDT, Holdings: 0.015547561546024765
+Coin: SOLUSDT, Holdings: 36.633348771589525
+Coin: AVAXUSDT, Holdings: 17.383978436135138
+Coin: ETCUSDT, Holdings: 15.914709701219023
+Coin: ETHUSDT, Holdings: 0.18811405825823196
+Coin: RUNEUSDT, Holdings: 166.88619298689733
+Coin: CHRUSDT, Holdings: 2063.9635175057974
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 13.91380837194237 quantity of AVAXUSDT
+Bought 1483.3281825867002 quantity of CHRUSDT
+
+Date: 2023-02-05, Balance: 2365.6117855892694, Value: 3600.061021726633
+
+Coin: BTCUSDT, Holdings: 0.015547561546024765
+Coin: SOLUSDT, Holdings: 36.633348771589525
+Coin: AVAXUSDT, Holdings: 31.297786808077507
+Coin: ETCUSDT, Holdings: 15.914709701219023
+Coin: ETHUSDT, Holdings: 0.18811405825823196
+Coin: RUNEUSDT, Holdings: 166.88619298689733
+Coin: CHRUSDT, Holdings: 3547.2917000924976
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 0.015547561546024765 quantity of BTCUSDT
+Sold 36.633348771589525 quantity of SOLUSDT
+Sold 31.297786808077507 quantity of AVAXUSDT
+Sold 0.18811405825823196 quantity of ETHUSDT
+Sold 166.88619298689733 quantity of RUNEUSDT
+Sold 3547.2917000924976 quantity of CHRUSDT
+
+Date: 2023-02-12, Balance: 5404.383995376069, Value: 363.6511166728547
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 15.914709701219023
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 15.914709701219023 quantity of ETCUSDT
+
+Date: 2023-02-19, Balance: 5739.547781683741, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-02-26, Balance: 5739.547781683741, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-03-05, Balance: 5739.547781683741, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-03-12, Balance: 5739.547781683741, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-03-19, Balance: 5739.547781683741, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 0.020518265668427092 quantity of BTCUSDT
+
+Date: 2023-03-26, Balance: 5739.547781683741, Value: 573.9547781683741
+
+Coin: BTCUSDT, Holdings: 0.020518265668427092
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-04-02, Balance: 5739.547781683741, Value: 573.8558801278523
+
+Coin: BTCUSDT, Holdings: 0.020518265668427092
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-04-09, Balance: 5739.547781683741, Value: 578.0379130363912
+
+Coin: BTCUSDT, Holdings: 0.020518265668427092
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-04-16, Balance: 5739.547781683741, Value: 581.1544324087685
+
+Coin: BTCUSDT, Holdings: 0.020518265668427092
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-04-23, Balance: 5739.547781683741, Value: 621.7988596886992
+
+Coin: BTCUSDT, Holdings: 0.020518265668427092
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 0.020518265668427092 quantity of BTCUSDT
+
+Date: 2023-04-30, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-05-07, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-05-14, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-05-21, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-05-28, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-06-04, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-06-11, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-06-18, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-06-25, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-07-02, Balance: 6305.659042435045, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 32.41984083514162 quantity of SOLUSDT
+Bought 5.551733617216979 quantity of LTCUSDT
+
+Date: 2023-07-09, Balance: 6305.659042435045, Value: 1261.131808487009
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 32.41984083514162
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 5.551733617216979
+
+Trades executed:
+Sold 5.551733617216979 quantity of LTCUSDT
+
+Date: 2023-07-16, Balance: 6833.517874760036, Value: 691.1910066052194
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 32.41984083514162
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 24.92165526900086 quantity of SOLUSDT
+
+Date: 2023-07-23, Balance: 6150.166087284032, Value: 1572.3038231755868
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 57.34149610414248
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 57.34149610414248 quantity of SOLUSDT
+
+Date: 2023-07-30, Balance: 7569.9415308226, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-08-06, Balance: 7569.9415308226, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-08-13, Balance: 7569.9415308226, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 547.7526433301448 quantity of RUNEUSDT
+
+Date: 2023-08-20, Balance: 7569.9415308226, Value: 756.99415308226
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 547.7526433301448
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 426.95665712479416 quantity of RUNEUSDT
+
+Date: 2023-08-27, Balance: 6812.94737774034, Value: 1728.1595897066068
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 974.709300454939
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 974.709300454939 quantity of RUNEUSDT
+
+Date: 2023-09-03, Balance: 8244.795340108645, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-09-10, Balance: 8244.795340108645, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2023-09-17, Balance: 8244.795340108645, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 449.06292702116804 quantity of RUNEUSDT
+
+Date: 2023-09-24, Balance: 8244.795340108645, Value: 824.4795340108645
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 449.06292702116804
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 449.06292702116804 quantity of RUNEUSDT
+
+Date: 2023-10-01, Balance: 8995.179491161018, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 37.68403641039387 quantity of SOLUSDT
+Bought 418.5751275551893 quantity of RUNEUSDT
+
+Date: 2023-10-08, Balance: 8995.179491161018, Value: 1799.0358982322036
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 37.68403641039387
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 418.5751275551893
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 418.5751275551893 quantity of RUNEUSDT
+
+Date: 2023-10-15, Balance: 9720.988762341716, Value: 875.0233254493456
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 37.68403641039387
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 37.68403641039387 quantity of SOLUSDT
+
+Date: 2023-10-22, Balance: 10547.399680821654, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 36.30774416806077 quantity of SOLUSDT
+Bought 576.3606382962653 quantity of RUNEUSDT
+
+Date: 2023-10-29, Balance: 10547.399680821654, Value: 2109.479936164331
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 36.30774416806077
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 576.3606382962653
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 432.9802824639431 quantity of RUNEUSDT
+Bought 8017.449081705649 quantity of CHRUSDT
+
+Date: 2023-11-05, Balance: 9492.659712739489, Value: 4600.003695283252
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 36.30774416806077
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 1009.3409207602084
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 283.3629764996862 quantity of RUNEUSDT
+
+Date: 2023-11-12, Balance: 8543.39374146554, Value: 6761.059781079567
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 36.30774416806077
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 1292.7038972598946
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 15.180159455340332 quantity of SOLUSDT
+Bought 40.51135072349307 quantity of AVAXUSDT
+Bought 149.73815710455668 quantity of RUNEUSDT
+
+Date: 2023-11-19, Balance: 6920.148930587086, Value: 12082.17969629694
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 51.4879036234011
+Coin: AVAXUSDT, Holdings: 40.51135072349307
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 1442.4420543644512
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 30.285115669965364 quantity of AVAXUSDT
+
+Date: 2023-11-26, Balance: 6228.134037528378, Value: 13737.664431469653
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 51.4879036234011
+Coin: AVAXUSDT, Holdings: 70.79646639345843
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 1442.4420543644512
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 1442.4420543644512 quantity of RUNEUSDT
+
+Date: 2023-12-03, Balance: 13811.051917322297, Value: 5494.995339742658
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 51.4879036234011
+Coin: AVAXUSDT, Holdings: 70.79646639345843
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 198.1499557721994 quantity of RUNEUSDT
+
+Date: 2023-12-10, Balance: 13811.051917322297, Value: 7279.487083341036
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 51.4879036234011
+Coin: AVAXUSDT, Holdings: 70.79646639345843
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 198.1499557721994
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 18.44671018742126 quantity of SOLUSDT
+Bought 33.46781563163723 quantity of AVAXUSDT
+
+Date: 2023-12-17, Balance: 11186.95205303106, Value: 11702.177656315505
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 69.93461381082236
+Coin: AVAXUSDT, Holdings: 104.26428202509567
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 198.1499557721994
+Coin: CHRUSDT, Holdings: 8017.449081705649
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 69.93461381082236 quantity of SOLUSDT
+Bought 39.74204365781399 quantity of AVAXUSDT
+Sold 198.1499557721994 quantity of RUNEUSDT
+Sold 8017.449081705649 quantity of CHRUSDT
+
+Date: 2023-12-24, Balance: 16881.07300762783, Value: 5849.5369492397895
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 144.00632568290965
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 15.012070260229285 quantity of SOLUSDT
+
+Date: 2023-12-31, Balance: 16881.07300762783, Value: 8554.328909323915
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 15.012070260229285
+Coin: AVAXUSDT, Holdings: 144.00632568290965
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 15.012070260229285 quantity of SOLUSDT
+Sold 144.00632568290965 quantity of AVAXUSDT
+
+Date: 2024-01-07, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-01-14, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-01-21, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-01-28, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-02-04, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-02-11, Balance: 23959.54464957452, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 6861.267081779644 quantity of CHRUSDT
+
+Date: 2024-02-18, Balance: 23959.54464957452, Value: 2395.954464957452
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 6861.267081779644
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 5019.808223250475 quantity of CHRUSDT
+
+Date: 2024-02-25, Balance: 21563.590184617067, Value: 5670.837243090876
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 11881.07530503012
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-03-03, Balance: 21563.590184617067, Value: 5149.258037200054
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 11881.07530503012
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 64.17735173993175 quantity of ETCUSDT
+Sold 11881.07530503012 quantity of CHRUSDT
+Bought 17059.083891413156 quantity of DOGEUSDT
+Bought 2452.0535776109177 quantity of EOSUSDT
+Bought 28.865023206341533 quantity of LTCUSDT
+
+Date: 2024-03-10, Balance: 26180.576048151772, Value: 10010.531832907238
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 64.17735173993175
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 17059.083891413156
+Coin: EOSUSDT, Holdings: 2452.0535776109177
+Coin: LTCUSDT, Holdings: 28.865023206341533
+
+Trades executed:
+Bought 305.38406681618767 quantity of RUNEUSDT
+Bought 15403.057038390169 quantity of DOGEUSDT
+
+Date: 2024-03-17, Balance: 23562.518443336594, Value: 15785.061489041116
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 64.17735173993175
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 305.38406681618767
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 32462.140929803325
+Coin: EOSUSDT, Holdings: 2452.0535776109177
+Coin: LTCUSDT, Holdings: 28.865023206341533
+
+Trades executed:
+Bought 11.67270308299643 quantity of SOLUSDT
+Bought 40.3122642315425 quantity of AVAXUSDT
+Sold 64.17735173993175 quantity of ETCUSDT
+Sold 32462.140929803325 quantity of DOGEUSDT
+Sold 2452.0535776109177 quantity of EOSUSDT
+Sold 28.865023206341533 quantity of LTCUSDT
+
+Date: 2024-03-24, Balance: 35593.882634482135, Value: 7451.7987680085225
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 11.67270308299643
+Coin: AVAXUSDT, Holdings: 40.3122642315425
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 305.38406681618767
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 8020.252959549828 quantity of CHRUSDT
+Bought 20165.36322841886 quantity of DOGEUSDT
+
+Date: 2024-03-31, Balance: 35593.882634482135, Value: 14178.796786183577
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 11.67270308299643
+Coin: AVAXUSDT, Holdings: 40.3122642315425
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 305.38406681618767
+Coin: CHRUSDT, Holdings: 8020.252959549828
+Coin: DOGEUSDT, Holdings: 20165.36322841886
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 40.3122642315425 quantity of AVAXUSDT
+Sold 305.38406681618767 quantity of RUNEUSDT
+Sold 8020.252959549828 quantity of CHRUSDT
+Bought 19996.289252783135 quantity of DOGEUSDT
+
+Date: 2024-04-07, Balance: 39592.65272051061, Value: 11198.702285017065
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 11.67270308299643
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 40161.65248120199
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 11.67270308299643 quantity of SOLUSDT
+
+Date: 2024-04-14, Balance: 41688.13637797013, Value: 7986.94782893664
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 40161.65248120199
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 40161.65248120199 quantity of DOGEUSDT
+
+Date: 2024-04-21, Balance: 48199.14347822259, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-04-28, Balance: 48199.14347822259, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-05-05, Balance: 48199.14347822259, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 29941.075585925326 quantity of DOGEUSDT
+
+Date: 2024-05-12, Balance: 48199.14347822259, Value: 4819.9143478222595
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 29941.075585925326
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 29941.075585925326 quantity of DOGEUSDT
+
+Date: 2024-05-19, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-05-26, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-06-02, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-06-09, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-06-16, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-06-23, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-06-30, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-07-07, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-07-14, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-07-21, Balance: 52427.721583222825, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 28.41764951120539 quantity of SOLUSDT
+Bought 160.6241470074229 quantity of AVAXUSDT
+Bought 1070.3903957375016 quantity of RUNEUSDT
+Bought 37378.95450108572 quantity of DOGEUSDT
+
+Date: 2024-07-28, Balance: 52427.721583222825, Value: 20971.08863328913
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 28.41764951120539
+Coin: AVAXUSDT, Holdings: 160.6241470074229
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 1070.3903957375016
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 37378.95450108572
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 160.6241470074229 quantity of AVAXUSDT
+Sold 1070.3903957375016 quantity of RUNEUSDT
+
+Date: 2024-08-04, Balance: 61686.254827082994, Value: 10115.182637943064
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 28.41764951120539
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 37378.95450108572
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 28.41764951120539 quantity of SOLUSDT
+Sold 37378.95450108572 quantity of DOGEUSDT
+
+Date: 2024-08-11, Balance: 69495.33481345567, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-08-18, Balance: 69495.33481345567, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-08-25, Balance: 69495.33481345567, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 258.15503273943415 quantity of AVAXUSDT
+Bought 27676.35795040051 quantity of CHRUSDT
+
+Date: 2024-09-01, Balance: 69495.33481345567, Value: 13899.066962691135
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 258.15503273943415
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 27676.35795040051
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 258.15503273943415 quantity of AVAXUSDT
+Sold 27676.35795040051 quantity of CHRUSDT
+
+Date: 2024-09-08, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-09-15, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-09-22, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-09-29, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-10-06, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-10-13, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-10-20, Balance: 80042.73931114197, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 56312.606803955234 quantity of DOGEUSDT
+
+Date: 2024-10-27, Balance: 80042.73931114197, Value: 8004.273931114196
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 56312.606803955234
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2024-11-03, Balance: 80042.73931114197, Value: 8123.656657538582
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 56312.606803955234
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 56312.606803955234 quantity of DOGEUSDT
+
+Date: 2024-11-10, Balance: 88567.90485519276, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 42.16113907516198 quantity of SOLUSDT
+Bought 277.72939747630215 quantity of AVAXUSDT
+Bought 384.7432878157809 quantity of ETCUSDT
+Bought 2.7823456465389578 quantity of ETHUSDT
+Bought 31884.190674343994 quantity of DOGEUSDT
+Bought 15294.06058628782 quantity of EOSUSDT
+
+Date: 2024-11-17, Balance: 88567.90485519276, Value: 53140.74291311565
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 42.16113907516198
+Coin: AVAXUSDT, Holdings: 277.72939747630215
+Coin: ETCUSDT, Holdings: 384.7432878157809
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 31884.190674343994
+Coin: EOSUSDT, Holdings: 15294.06058628782
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 37.296460544571 quantity of SOLUSDT
+Bought 308.47954477427817 quantity of ETCUSDT
+Bought 19545.55441714967 quantity of DOGEUSDT
+Bought 10471.294622029762 quantity of EOSUSDT
+
+Date: 2024-11-24, Balance: 58109.40237549197, Value: 89743.84843081185
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 79.45759961973297
+Coin: AVAXUSDT, Holdings: 277.72939747630215
+Coin: ETCUSDT, Holdings: 693.222832590059
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 51429.74509149366
+Coin: EOSUSDT, Holdings: 25765.355208317582
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 138.15835086897758 quantity of AVAXUSDT
+Bought 20517.246817553067 quantity of CHRUSDT
+Bought 6149.143108517668 quantity of EOSUSDT
+
+Date: 2024-12-01, Balance: 47068.61592414849, Value: 121417.8707893176
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 79.45759961973297
+Coin: AVAXUSDT, Holdings: 415.88774834527976
+Coin: ETCUSDT, Holdings: 693.222832590059
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 20517.246817553067
+Coin: DOGEUSDT, Holdings: 51429.74509149366
+Coin: EOSUSDT, Holdings: 31914.49831683525
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 79.45759961973297 quantity of SOLUSDT
+Bought 23488.11961287032 quantity of CHRUSDT
+Bought 5375.374667998471 quantity of EOSUSDT
+Bought 44.63921553025681 quantity of LTCUSDT
+
+Date: 2024-12-08, Balance: 53366.18216642202, Value: 133633.22951284816
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 415.88774834527976
+Coin: ETCUSDT, Holdings: 693.222832590059
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 44005.36643042338
+Coin: DOGEUSDT, Holdings: 51429.74509149366
+Coin: EOSUSDT, Holdings: 37289.87298483372
+Coin: LTCUSDT, Holdings: 44.63921553025681
+
+Trades executed:
+Bought 707.1178238561286 quantity of RUNEUSDT
+Bought 4045.037684106877 quantity of EOSUSDT
+
+Date: 2024-12-15, Balance: 48029.56394977982, Value: 164225.79251733495
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 415.88774834527976
+Coin: ETCUSDT, Holdings: 693.222832590059
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 707.1178238561286
+Coin: CHRUSDT, Holdings: 44005.36643042338
+Coin: DOGEUSDT, Holdings: 51429.74509149366
+Coin: EOSUSDT, Holdings: 41334.910668940596
+Coin: LTCUSDT, Holdings: 44.63921553025681
+
+Trades executed:
+Sold 707.1178238561286 quantity of RUNEUSDT
+Sold 51429.74509149366 quantity of DOGEUSDT
+Sold 41334.910668940596 quantity of EOSUSDT
+Sold 44.63921553025681 quantity of LTCUSDT
+
+Date: 2024-12-22, Balance: 123629.91056947007, Value: 70018.98292730362
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 415.88774834527976
+Coin: ETCUSDT, Holdings: 693.222832590059
+Coin: ETHUSDT, Holdings: 2.7823456465389578
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 44005.36643042338
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 415.88774834527976 quantity of AVAXUSDT
+Sold 693.222832590059 quantity of ETCUSDT
+Sold 2.7823456465389578 quantity of ETHUSDT
+Sold 44005.36643042338 quantity of CHRUSDT
+
+Date: 2024-12-29, Balance: 176338.9033880493, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+
+Date: 2025-01-05, Balance: 176338.9033880493, Value: 0.0
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 0
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Bought 46125.79214963361 quantity of DOGEUSDT
+
+Date: 2025-01-12, Balance: 176338.9033880493, Value: 17633.89033880493
+
+Coin: BTCUSDT, Holdings: 0
+Coin: SOLUSDT, Holdings: 0
+Coin: AVAXUSDT, Holdings: 0
+Coin: ETCUSDT, Holdings: 0
+Coin: ETHUSDT, Holdings: 0
+Coin: RUNEUSDT, Holdings: 0
+Coin: CHRUSDT, Holdings: 0
+Coin: DOGEUSDT, Holdings: 46125.79214963361
+Coin: EOSUSDT, Holdings: 0
+Coin: LTCUSDT, Holdings: 0
+
+Trades executed:
+Sold 46125.79214963361 quantity of DOGEUSDT
